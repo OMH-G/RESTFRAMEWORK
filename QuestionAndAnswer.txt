@@ -1,0 +1,138 @@
+1.Who is developer-> Omkar
+2.What is the name of the computer-> Dell
+3.What is the tallest animal in the world? -> Giraffe
+4.Paris is the capital city of which country? -> France
+5.When Humpty Dumpty was sitting on a wall, what happened next?->He had a great fall
+6.In Peppa Pig, what is Peppa’s little brother called?->George
+7.Which one of these is a fish:Initial with Sh?->Shark
+8.What do we call someone who travels to space in a rocket?->An Astronaut
+9.What is the little mermaid’s name in the Disney film?->Ariel
+10.Who is Anna’s sister in the Disney film Frozen?->Elsa
+11.What is a young sheep called?->Lamb
+12.How many weeks are in a year?->52
+13.In what country is the Great Barrier Reef?->Australia
+207. How many players are there in each side of a Hockey team? Ans- 11
+208.  How many players are there in each side of a Basket Ball team? Ans- 5
+209. Commonwealth Games are held in every _ years? Ans- 4 years
+210. What is the full form of cricket tournament- IPL?Ans- Indian Premier League
+212. How many Grand Slam Tennis Tournaments are held every year? Ans- 4
+213. In which sports, the term HAT-TRICK is used? Ans- Cricket
+214. Number of players in one team of Kho Kho are Ans- Nine
+215. Eden Gardens cricket stadium is in – Ans- Calcutta
+216. Which country will host Cricket World Cup 2019 – Ans- England
+217. Football was introduced as a competitive game in Olympics in year – Ans- 1908
+218. Hockey is the National sports of – Ans- India and Pakistan
+219. Which is the National sport of Canada? Ans- Lacrosse/Ice hockey
+220. _ has Cricket as its National S Ans- Jamaica
+221. _ is the national sport of Turkey Ans- Wrestling
+222. In which country Commonwealth games were held in 2010? Ans- India
+223. Which country has hosted Commonwealth Games for the maximum number of times? Ans- Canada
+224. Caddie is related to __________ Ans- Golf
+225. In which year Olympic Games were cancelled because of World War I? Ans- 1916
+226. Who was the winner of Football World Cup in 2010? Ans- Spain
+227. Where did the game of Badminton originate from? Ans- Pune
+228. When is national sports day of India celebrated? Ans- August 22
+229. When was women’s and men’s doubles introduced in Wimbledon? Ans- 1884
+230. Who among the following is known as “Flying Sikh of India”? Ans- Milkha Singh
+231. Total Olympic medals won by India in 2012? Ans- Six
+232. The only driver in Indian Grand Prix 2011 is? Ans- Alice Powell
+182. What is the color of the sky? Ans: Blue
+183. What is the job of a Doctor? Ans: A Doctor treats sick people.
+184. What comes after 10 and before 13? Ans: 12
+185. Where does fish live? Ans: In Water
+186. What is sun? Ans: Sun is a big ball of fire.
+187. Who is Virat Kohli? Ans: Indian Cricketer
+188. How many noses do you have? Ans: One
+189. What is the color of Mango? Ans: Yellow
+190. In which planet do we live? Ans: Earth
+191. What is the young one of a cat called? Ans: Kitten
+192. How many years are there in a century? Ans: Hundred
+193. Which is the national game of India? Ans: Hockey
+194. What is the full form of TV? Ans: Television
+195. Solve 27*0. Ans: Zero (Any number multiplied by zero gives zero as the answer)
+196. Which all animals give us milk? Ans: Cow, goat and buffalo
+197. What is the home of a lion called? Ans: Den
+198. How many days are there in a week? Ans: Seven
+199. Where do we deposit money? Ans: Bank
+200. What is the place where animals are kept called? Ans: Zoo
+201. What is COVID-19? Ans: It is deadly disease spread across the world during 2019 and 2020.
+202. What is Beri-Beri? Ans: It is a disease caused due to the deficiency of Vitamin B
+203. Where do we get coconut from? Ans: We get coconut from coconut Tree
+204. Which state in India is known as “God’s Own Country”? Ans: Kerala
+205. How do plants make food? Ans:  Photosynthesis.
+206. Which place is known as the “Land of White Elephants”? Ans: Thailand
+1. How many days do we have in a week? Answer: Seven
+
+2. How many days are there in a normal year? Answer: 365 (not a leap year)
+
+3. How many colors are there in a rainbow? Answer: 7
+
+4. Which animal is known as the ‘Ship of the Desert?’ Answer: Camel
+
+5. How many letters are there in the English alphabet? Answer: 26
+
+6. How many consonants are there in the English alphabet? Answer: 21
+
+7. How many sides are there in a triangle? Answer: Three
+
+8. Which month of the year has the least number of days? Answer: February
+
+9. Which are the vowels in the English alphabet series? Answer: A, E, I, O, U
+
+10. Which animal is called King of Jungle? Answer: Lion
+
+11. How many primary colors are there? Answer: Three (red, yellow, blue)
+
+12. How many days are there in the month of February in a leap year? Answer: 29 days
+
+13. What do you call a house made of ice? Answer: Igloo
+
+14. Which is the largest animal in the world? Answer: Blue whale
+
+15. Which is the tallest animal on the earth? Answer: Giraffe
+
+16. Which festival is known as the festival of colors? Answer: Holi
+
+17. Which festival is called the festival of light? Answer: Diwali
+
+18. What is the top color in a rainbow? Answer: Red
+
+19. What type of bird lays the largest eggs? Answer: Ostrich
+
+20. Which festival is known as the ‘Festival of flowers’? Answers: Onam
+
+1.   In which the reproductive organs are hidden? a. Cryptogamae      b. Phanerogamae      c. Gymnosperms      d. angiosperms :a
+2.   Which phylum of animals is also called flatworms? a. Porifera      b. Coelenterata      c. Platyhelminthes      d. Nematoda :c
+3.   What is the exclusive marine phylum? a. Echinodermata      b. Porifera      c. Cnidarians      d. Protozoa : a
+4.   The mode of nutrition in fungi a. only saprotrophic      b. saprotrophic or parasitic      c. only parasitic      d. none of above :b
+5.   What is not possessed by bacteria? a. membrane bound organelles      b. nucleus      c. nucleolus      d. all of these : d
+6.   What does Arthropod means? a. bonous legs      b. cartilaginous legs      c. largest legs      d. jointed legs  :d
+7.   What is not poisoning among these? a. scorpion      b. centipede      c. spider      d. crab  :d
+8.   The excretory system in annelids is consisted of tubes called? a. flame cells      b. metanephridia      c. nephridia      d. protonephridia  : c
+9.   Which sub group in plant kingdom produces flowers? a. Angiosperms      b. fungi      c. mosses      d. ferns : a
+10.   Choose the vascular plants out of these. a. mosses        b. liverworts        c. hornworts        d. ferns : d
+11.   In which organism flame cells form the excretory system? a. flatworms        b. earthworms        c. insects        d. crabs : a
+12.   Which of the these are found filamentous a. Spirogyra        b. euglena        c. chlamydomonas        d. amoeba : a
+13.   What does a bacteria lack? a. endoplasmic reticulum        b. DNA.        c. cell wall        d. cytoplasm : a
+14.   What is the mode of nutrition in bacteria? a. autotrophic        b. heterotrophic        c. autotrophic and heterotrophic        d. none of these : c
+15.   What is the phylum of Octopus? a. Arthropoda        b. Mollusca        c. Annelida        d. cnidarian : b
+1.  Using fertilizers in farming is an example of I.  No cost production      II.  Low cost production     III.  High cost production     IV.  None of these : III
+2.  Nitrogen, phosphorus and potassium are examples of I.  Micro-nutrients      II.  Macro-nutrients     III.  Fertilizers     IV.  Both I and II : II 
+3.  Cyperinus and Parthenium are types of I.  Diseases      II.  Pesticides     III.  Weeds     IV.  Pathogens : III
+4.  Mullets, prawns, mussels are examples of I.  Marine fishes      II.  Fresh-water fishes     III.  Finned fishes     IV.  Shell fish : I 
+5.  What is the other name for Apis cerana indica? I.  Indian cow      II.  Indian buffalo     III.  Indian bee     IV.  None of these : III
+6.  The management and production of fish is called I.  Pisciculture      II.  Apiculture     III.  Sericulture     IV.  Aquaculture :   I  
+7.  Rohu and catla are types of I.  Freshwater fish      II.  Marine water fish     III.  Both I and II     IV.  None of these :  I   
+8.  Pasturage is related to I.  Cattle      II.  Fishery     III.  Apiculture     IV.  Sericulture :  III 
+9.  What is the process of growing two or more crops in a definite pattern? I.  Crop rotation      II.  Inter-cropping     III.  Mixed cropping     IV.  Organic cropping :  II 
+10.  Leghorn is related to I.  Apiculture      II.  Dairy farming     III.  Pisciculture     IV.  Poultry : IV
+1.   The micro-organisms which helps in formation of soil is   a. Bacteria        b. Moss        c. Lichen        d. B and c :  C 
+2.   Burning of fossil fuels add   a. CO2, SO2, NO2, gases in air        b. C, SO2, N2, gases in air        c. CO, SO3, NO3, gases in air        d. CH4, CO2, NO2, gases in air :  A  
+3.   Greenhouse gases are   a. Industries        b. Rhizobium        c. Lightening        d. All of the above : D 
+4.   Nitrogen fixation can be done by   a. Industries        b. Rhizobium        c. Lightening        d. All of the above :  D 
+5.   Atmosphere maintain the temperature of earth because   a. It contains water vapor        b. It hold air, which is bad conductor of heat        c. It reflects the heat rays        d. It absorbs the heat rays :  B 
+6.   Molecules of proteins contain   a. Carbon        b. Nitrogen        c. Oxygen        d. All of these  :  D  
+7.   Life cannot sustain on Mars and Venus because major component in atmosphere is   a. Oxygen        b. Carbon dioxide        c. Nitrogen        d. Ozone :  B 
+8.   On moon the temperature ranges from -190° C to 110° C. This is due to   a. No water bodies present        b. Water bodies present        c. No bio geo chemical cycle        d. No atmosphere :  D 
+9.   Depletion of ozone molecules in the stratosphere is due to   a. Chlorine compound        b. Fluorine compound        c. Halogen compound        d. None of these :  C 
+10.   The life supporting zone of the earth is   a. Lithosphere        b. Hydrosphere        c. Atmosphere        d. Biosphere :  D
